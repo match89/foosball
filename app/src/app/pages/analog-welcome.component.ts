@@ -69,7 +69,7 @@ import { Component } from '@angular/core';
   `,
 })
 export class AnalogWelcomeComponent {
-  public count = 0;
+  public count = 10;
   public increment() {
     this.count++;
   }
